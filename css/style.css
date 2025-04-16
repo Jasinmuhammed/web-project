@@ -1,0 +1,18 @@
+body{
+    background-color:rgb(204, 211, 156) ;
+    color: rgb(130, 98, 50);
+  }
+  p{
+    font-family: sans-serif;
+    color: rgb(38, 45, 145);
+  }
+  div{
+    background-color: rgba(84, 192, 100, 0.625);
+    width:200px;
+    height:200px;
+  }
+  span{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-weight: bold;
+  }
