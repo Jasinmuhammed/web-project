@@ -15,3 +15,20 @@ body{
     color: rgb(0, 0, 0);
     font-size: 20px;
   }
+.section-top{
+    background-color: rgb(255, 255, 255);
+}
+.section-bottom{
+    background-color: rgb(8, 41, 81);
+}
+.welcome-text{
+    color: rgb(255, 255, 255);
+    font-size: 1px;
+    font-family: sans-serif;
+
+}  
+/*learning css box model*/
+.box
+{
+  background-color: aqua;
+}
