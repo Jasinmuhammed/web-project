@@ -56,7 +56,7 @@ margin-right:auto;
 .sidebar li{
     width:100%
 }
-@nedia(max-width:800px){
+@media(max-width:800px){
     .hideonmobile{
         display:none;
     }
